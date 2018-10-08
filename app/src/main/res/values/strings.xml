@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudentChatApp</string>
+    <string name="sign_out">Logout</string>
+</resources>
